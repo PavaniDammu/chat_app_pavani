@@ -13,10 +13,12 @@ This is a simple Node.js application that provides web services(APIs) for facili
 To run the application:
 
 1. Clone this repository.
-2. Install dependencies with _npm install_.
+2. Install dependencies with **npm install**.
 3. Set up your chosen database.
 4. Configure PostgreSQL database connection in the application.
-5. Run the application with _npm start_.
+5. Run the application with **npm start**.
+
+Server will be running at: **http://localhost:8080**
 
 ## Description
 
